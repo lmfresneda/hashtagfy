@@ -1,5 +1,5 @@
 # hashtagfy
-[![npm](https://img.shields.io/npm/v/hashtagfy.svg?style=flat-square)](https://www.npmjs.com/package/hashtagfy) [![npm](https://img.shields.io/npm/dw/hashtagfy.svg?style=flat-square)](https://www.npmjs.com/package/hashtagfy) ![Love](https://img.shields.io/badge/love-max-brightgreen.svg?style=flat-square) [![Travis](https://img.shields.io/travis/lmfresneda/hashtagfy.svg?style=flat-square)](https://travis-ci.org/lmfresneda/hashtagfy)
+[![npm](https://img.shields.io/npm/v/hashtagfy.svg?style=flat-square)](https://www.npmjs.com/package/hashtagfy) ![Love](https://img.shields.io/badge/love-max-brightgreen.svg?style=flat-square) [![Travis](https://img.shields.io/travis/lmfresneda/hashtagfy.svg?style=flat-square)](https://travis-ci.org/lmfresneda/hashtagfy)
 
 Convert any text to #hashtag
 
