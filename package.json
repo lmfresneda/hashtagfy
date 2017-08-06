@@ -1,6 +1,6 @@
 {
   "name": "hashtagfy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Convert any text to #hashtag",
   "homepage": "https://github.com/lmfresneda/hashtagfy",
   "main": "hashtagfy.js",
